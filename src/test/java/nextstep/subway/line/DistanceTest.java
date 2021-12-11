@@ -1,4 +1,4 @@
-package nextstep.subway.section;
+package nextstep.subway.line;
 
 import static org.assertj.core.api.Assertions.*;
 

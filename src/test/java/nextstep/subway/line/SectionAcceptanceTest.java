@@ -1,4 +1,4 @@
-package nextstep.subway.section;
+package nextstep.subway.line;
 
 import static nextstep.subway.AcceptanceTestUtil.*;
 import static org.assertj.core.api.Assertions.*;
@@ -15,7 +15,6 @@ import io.restassured.RestAssured;
 import io.restassured.response.ExtractableResponse;
 import io.restassured.response.Response;
 import nextstep.subway.AcceptanceTest;
-import nextstep.subway.line.LineAcceptanceTest;
 import nextstep.subway.line.domain.Section;
 import nextstep.subway.line.dto.AddSectionRequest;
 import nextstep.subway.station.StationAcceptanceTest;
